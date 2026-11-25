@@ -95,16 +95,4 @@ Here are some of the projects I've been working on:
 
 ---
 
-## 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/MoatazMohamed2675">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-  <br/>
-  Let's connect, collaborate, and build something amazing.
-</p>
